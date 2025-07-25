@@ -1,37 +1,83 @@
-# Ignore trained models and pickles
-*.pkl
-*.joblib
-
-# Ignore data files
-/data_csv/
-/*.csv
-*.tsv
-
-# Ignore Python cache and compiled files
+### Python ###
+# Byte-compiled files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
 
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore virtual environments
+# Virtual environments
 myenv/
 .env/
-.envrc
+venv/
+.venv/
+env/
+ENV/
 
-# Ignore Flask secret/config files (if any)
-*.env
-
-# Ignore logs
+# Logs and databases
 *.log
+*.sqlite
 
-# Ignore deployment artifacts
-*.zip
-*.tar.gz
-*.egg-info/
+### Data ###
+# Ignore data files
+/data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.hdf5
+*.feather
+*.parquet
 
-# Ignore OS files
+### Models ###
+# Trained models and serialized objects
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.h5
+*.model
+
+### Jupyter ###
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+### IDE ###
+# VS Code
+.vscode/
+.idea/
+
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Build/Deployment ###
+# Distribution / packaging
+.eggs/
+*.egg-info/
+*.egg
+build/
+dist/
+*.so
+*.exe
+*.dll
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover

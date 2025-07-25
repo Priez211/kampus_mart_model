@@ -1,0 +1,24 @@
+interactionId,userId,productId,interactionType,timestamp,quantity,value,rating,review,sentiment,socialSharePlatform
+int1,1,study_setup,view,2023-06-01T09:00:00,,,,,,
+int2,2,study_setup,like,2023-06-01T09:05:00,,,,,,
+int3,3,study_setup,add_to_cart,2023-06-01T09:10:00,1,,,,,
+int4,3,study_setup,purchase,2023-06-01T09:15:00,1,120000,,,,
+int5,2,macbook_pro,view,2023-06-02T10:00:00,,,,,,
+int6,1,macbook_pro,like,2023-06-02T10:05:00,,,,,,
+int7,1,macbook_pro,add_to_cart,2023-06-02T10:10:00,1,,,,,
+int8,1,macbook_pro,purchase,2023-06-02T10:20:00,1,3500000,,,,
+int9,4,back_bag,view,2023-06-03T11:00:00,,,,,,
+int10,4,back_bag,add_to_cart,2023-06-03T11:05:00,2,,,,,
+int11,4,back_bag,purchase,2023-06-03T11:10:00,2,90000,,,,
+int12,5,cs_textbook,view,2023-06-04T12:00:00,,,,,,
+int13,5,cs_textbook,like,2023-06-04T12:05:00,,,,,,
+int14,1,study_setup,click,2023-06-01T09:01:00,,,,,,
+int15,2,macbook_pro,click,2023-06-02T10:01:00,,,,,,
+int16,3,study_setup,rating,2023-06-01T09:20:00,,,5
+int17,3,study_setup,review,2023-06-01T09:21:00,,,,"Great product, very useful!",positive
+int18,2,macbook_pro,rating,2023-06-02T10:25:00,,,4
+int19,2,macbook_pro,review,2023-06-02T10:26:00,,,,"Good value for money.",positive,
+int20,4,back_bag,review,2023-06-03T11:15:00,,,,"Strap broke after a week.",negative,
+int21,1,study_setup,social_share,2023-06-01T09:30:00,,,,,,Facebook
+int22,2,macbook_pro,social_share,2023-06-02T10:30:00,,,,,,Twitter
+int23,3,study_setup,social_share,2023-06-01T09:35:00,,,,,,WhatsApp 

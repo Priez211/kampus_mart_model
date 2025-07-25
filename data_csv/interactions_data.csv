@@ -1,0 +1,6 @@
+id,senderId,senderName,message,timestamp,messageType,isRead,imageUrl,voiceUrl,fileName,fileUrl,participants
+msg1,1,Alice Johnson,Hi Bob,2023-06-01T10:00:00,text,TRUE,,,,,1;2
+msg2,2,Bob Smith,Hello Alice,2023-06-01T10:01:00,text,TRUE,,,,,1;2
+msg3,3,Carol Lee,Is the study table available?,2023-06-02T09:30:00,text,FALSE,,,,,3;4
+msg4,4,Dave Kim,Yes, it's available.,2023-06-02T09:31:00,text,TRUE,,,,,3;4
+msg5,2,Bob Smith,Check out this image,2023-06-03T11:00:00,image,FALSE,https://example.com/image1.jpg,,,,2;5 

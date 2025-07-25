@@ -1,0 +1,23 @@
+id,name,description,ownerId,priceAndDiscount,originalPrice,condition,location,rating,imageUrl
+study_setup,Study Setup,Complete study setup for students,1,Ugx120,000,Ugx150,000,New,Kikoni,4.5,lib/products/study_table.jpeg
+laptop_setup,Laptop Setup,Perfect for remote work,2,Ugx80,000,Ugx100,000,Used,Campus,4.0,lib/products/macbook2.jpg
+reading_corner,Reading Corner,Cozy reading space essentials,3,Ugx95,000,Ugx120,000,New,Library,4.2,lib/products/studytable.jpg
+cup_board_2,Cup Board,Spacious cup board,4,Ugx80,000,Ugx150,000,Used,Africa hall,4.0,lib/products/cup_board.jpg
+dining_set_2,Dining Set,A beautiful dining set for your home,5,Ugx120,000,Ugx250,000,New,Kikoni,4.5,lib/products/dinning_set.jpeg
+cs_textbook_2,CS Textbook,Essential textbook for CS students,6,Ugx65,000,Ugx80,000,New,Kasubi,4.2,lib/products/cs_book.jpeg
+modern_desk,Modern Desk,Trending workspace solution,1,Ugx150,000,Ugx200,000,New,Wandegeya,4.8,lib/images/Cooling_fan.jpg
+entertainment_setup,Entertainment Setup,Complete entertainment system,2,Ugx250,000,Ugx300,000,New,Campus,4.7,lib/products/tv_screen.jpg
+student_backpack,Student Backpack,Trendy and spacious backpack,3,Ugx45,000,Ugx60,000,New,Kikoni,4.5,lib/products/back bag.jpeg
+macbook_pro,Macbook Pro,Powerful laptop for developers,4,Ugx3,500,000,Ugx4,000,000,Used,Wandegeya,4.8,lib/products/macbook.jpg
+couch,Couch,Comfortable couch for your living room,5,Ugx250,000,Ugx400,000,Used,Kikoni,4.3,lib/products/couch.jpg
+reading_lamp,Reading Lamp,Bright lamp for night study,6,Ugx30,000,Ugx50,000,New,Hostel,4.6,lib/products/reading_lamp.jpg
+dining_set,Dining Set,A beautiful dining set for your home,1,Ugx120,000,Ugx250,000,New,Kikoni,4.5,lib/products/dinning_set.jpeg
+cup_board,Cup Board,Spacious cup board,2,Ugx80,000,Ugx150,000,Used,Africa hall,4.0,lib/products/cup_board.jpg
+cs_textbook,Computer Science Textbook,Essential textbook for CS students,3,Ugx65,000,Ugx80,000,New,Kasubi,4.2,lib/products/cs_book.jpeg
+study_table,Study Table,Perfect for studying,4,Ugx90,000,Ugx120,000,Used,Kikoni,4.1,lib/products/study_table.jpeg
+back_bag,Back Bag,Stylish and durable,5,Ugx45,000,Ugx70,000,New,Nkrumah,4.4,lib/products/back bag.jpeg
+tv_screen,TV Screen,High definition TV screen,6,Ugx300,000,Ugx400,000,New,Campus,4.7,lib/products/tv_screen.jpg
+water_bottle,Water Bottle,water bottle for daily use,7,Ugx15,000,Ugx30,000,Used,Kikoni,4.3,lib/products/waterbottle.jpg
+smart_watch,Smart Watch,A smart watch for daily use,8,Ugx30,000,Ugx50,000,New,Hostel,4.6,lib/products/wraist_watch.jpg
+fashion_shoes,Fashion shoes,Stylish and comfortable shoes,9,Ugx35,000,Ugx90,000,Used,Wandegeya,4.8,lib/products/high hills.jpg
+study_table_2,Study Table 2,Modern study table,10,Ugx110,000,Ugx130,000,New,Hostel,4.3,lib/products/studytable.jpg 

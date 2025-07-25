@@ -1,0 +1,6 @@
+competitorId,competitorName,productId,productName,competitorPrice,dateChecked
+c1,ShopX,macbook_pro,Macbook Pro,3400000,2023-06-01
+c2,ShopX,study_setup,Study Setup,115000,2023-06-01
+c3,MarketMall,macbook_pro,Macbook Pro,3450000,2023-06-01
+c4,MarketMall,back_bag,Back Bag,43000,2023-06-01
+c5,ShopX,back_bag,Back Bag,44000,2023-06-01 

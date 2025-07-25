@@ -1,0 +1,6 @@
+eventId,eventName,startDate,endDate,eventType,description
+s1,Back to School,2023-08-15,2023-09-05,seasonal,"Increased demand for school supplies and electronics."
+s2,Black Friday,2023-11-24,2023-11-24,sale,"Major discounts on electronics, fashion, and home goods."
+s3,Christmas,2023-12-20,2023-12-26,holiday,"Gift shopping peak, high sales in toys, electronics, and clothing."
+s4,Easter,2023-04-07,2023-04-10,holiday,"Increased sales in gifts, food, and decorations."
+s5,End of Semester Sale,2023-05-20,2023-05-27,sale,"Discounts on books, electronics, and dorm essentials." 

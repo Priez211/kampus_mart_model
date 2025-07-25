@@ -1,0 +1,6 @@
+id,email,displayName,phoneNumber,address,profileImageUrl,userType,isEmailVerified,createdAt,updatedAt
+1,alice@example.com,Alice Johnson,256700000001,Kikoni,https://example.com/alice.jpg,buyer,TRUE,2023-01-01,2023-06-01
+2,bob@example.com,Bob Smith,256700000002,Wandegeya,https://example.com/bob.jpg,seller,TRUE,2023-01-05,2023-06-02
+3,carol@example.com,Carol Lee,256700000003,Kasubi,https://example.com/carol.jpg,buyer,FALSE,2023-02-01,2023-06-03
+4,dave@example.com,Dave Kim,256700000004,Campus,https://example.com/dave.jpg,seller,TRUE,2023-02-10,2023-06-04
+5,admin@example.com,Admin User,256700000005,Admin Office,https://example.com/admin.jpg,admin,TRUE,2023-01-01,2023-06-05 
